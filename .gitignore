@@ -13,3 +13,5 @@ wheels/
 webinar
 .DS_Store
 *.xlsx
+catboost_info/
+*.csv

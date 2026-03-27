@@ -5,11 +5,16 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "catboost>=1.2.10",
+    "cryptocompare>=0.7.6",
     "ipykernel>=7.2.0",
     "matplotlib>=3.10.8",
     "numpy>=2.4.3",
     "openpyxl>=3.1.5",
     "pandas>=3.0.1",
+    "pywavelets>=1.9.0",
     "scikit-learn>=1.8.0",
+    "tsfel>=0.2.0",
+    "tsfresh>=0.21.1",
     "tslearn>=0.8.1",
 ]
