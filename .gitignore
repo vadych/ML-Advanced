@@ -15,3 +15,4 @@ webinar
 *.xlsx
 catboost_info/
 *.csv
+*.png
